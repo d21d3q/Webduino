@@ -1,3 +1,7 @@
+# fork
+
+This fork supports Ethernet2 library for Ethernet shield with W5500.
+
 # Webduino
 
 This is an Arduino-based Web Server library, originally developed for a class at NYC Resistor. It's called Webduino, and it's an extensible web server library for the Arduino using the Wiznet-based Ethernet shields. It's released under the MIT license allowing all sorts of reuse.
