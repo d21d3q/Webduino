@@ -24,6 +24,7 @@
 */
 
 #include "WebServer2.h"
+// #define WEBDUINO_SERIAL_DEBUGGING 3
 
 WebServer::WebServer(const char *urlPrefix, uint16_t port) :
   m_server(port),

@@ -28,6 +28,7 @@
 
 #include <string.h>
 #include <stdlib.h>
+#include <stdarg.h>
 
 #include <Ethernet2.h>
 
@@ -52,7 +53,7 @@
 #endif
 
 #ifndef WEBDUINO_COMMANDS_COUNT
-#define WEBDUINO_COMMANDS_COUNT 8
+#define WEBDUINO_COMMANDS_COUNT 32
 #endif
 
 #ifndef WEBDUINO_URL_PATH_COMMAND_LENGTH
